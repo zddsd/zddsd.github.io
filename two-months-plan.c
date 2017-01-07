@@ -12,3 +12,10 @@
           >准备开发支持markdown的评论模块
           >确定使用csdn的markdown编辑器，还是使用Editor.md.
           >Markdown编辑器Editor.md
+          
+          done
+          >尝试开发markdown编辑器
+          >发现github list这一新功能。
+2017/1/8  #计划
+          >了解reqire.js
+          >做出使用require.js的demo.
