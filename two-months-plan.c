@@ -31,3 +31,17 @@
           
           done
           >挑战：30天学习30种不同的新技术。（二）使用angularJS做出demo,使用其过滤器和控制器。
+          >了解了requirejs的使用
+          >学习editor.md
+          >学会了使用gist 积累自己的代码。
+          >上传AngularJS的demo.
+          >继续寻找评价系统的优秀架构。    
+2017/1/9  #计划
+          >找到合适的评价系统框架
+          >完成30天学习30中不同新技术的挑战。
+          >掌握maven工具的使用
+          >学习spring和mybitis
+          >了解webpack
+          
+          done
+          
