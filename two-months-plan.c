@@ -17,14 +17,17 @@
           >尝试开发markdown编辑器
           >发现github list这一新功能。
           >了解Editor.md
-          >掌握bower--Web开发组件管理器
+          >挑战：30天学习30种不同的新技术。（一）掌握bower--Web开发组件管理器
           >掌握onenote这一生产力工具
           >了解chorme插件的有趣用途。
 2017/1/8  #计划
           >了解reqire.js
-          >做出使用require.js的demo.
+          >做出使用require.js的demo.    
           >挑战：30天学习30种不同的新技术。
           中文版地址：https://segmentfault.com/a/1190000000349384
           原版地址：https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/
           >了解评价系统如何开发
           >3天后2017/1/11，确定项目的整体架构。
+          
+          done
+          >挑战：30天学习30种不同的新技术。（二）使用angularJS做出demo,使用其过滤器和控制器。
