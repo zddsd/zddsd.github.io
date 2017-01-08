@@ -44,4 +44,5 @@
           >了解webpack
           
           done
+          >使用github pages ,发布了第一个网站 https://zddsd.github.io/my-2017-plan/bookshop/index.html
           
