@@ -44,4 +44,5 @@
           >了解webpack
           
           done
-          
+          >申请免费域名并使用，http://zhangshuaijie.tk/    
+           跳转至bookshop
